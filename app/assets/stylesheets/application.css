@@ -16,6 +16,8 @@
 
 body {
   overflow: hidden;
+  background-image: url("cyberpunk.jpg");
+  background-size: cover;
 }
 
 .msg-form{

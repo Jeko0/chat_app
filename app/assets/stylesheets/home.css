@@ -1,0 +1,21 @@
+#introduction {
+  font-size: 2rem;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+  background-color: black;
+}
+
+.card {
+  background-color: white;
+  width: 450px;
+  border-radius: 20px;
+  align-items: center;
+  margin-left: 700px;
+  height: 50vh;
+}
+
+.summary {
+  font-weight: 900;
+  font-size: 25px;
+}
