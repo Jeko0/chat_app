@@ -1,0 +1,16 @@
+.divider:after,
+.divider:before {
+content: "";
+flex: 1;
+height: 1px;
+background: #eee;
+}
+
+.form-card {
+  background-color: hsla(297, 100%, 0%, 0.8);
+  width: 800px;
+  margin-left: 500px;
+  margin-top: 150px;
+  border-radius: 2rem;
+  color: #fff;
+}

@@ -30,3 +30,5 @@ group :test do
   gem "webdrivers"
 end
 
+
+gem "sass-rails", "~> 6.0"
